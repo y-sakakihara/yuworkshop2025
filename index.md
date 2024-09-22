@@ -2,24 +2,24 @@
 
 ## Purpose
 
-In 2016, LIGO confirmed the existence of gravitational waves. Since then, gravitational waves became a useful tool to explore the early universe and even fundamental physics. A variety of the ways to detect gravitational waves are on-going and proposed, covering vast range of the gravitational wave frequency bands.
+In 2016, LIGO confirmed the existence of gravitational waves, and in 2023, a pulsar timing array, NANOGrav, reported a gravitational wave background signal. Gravitational waves are becoming a useful tool to explore the early universe and even fundamental physics. A variety of ways to detect gravitational waves are ongoing and proposed, covering a vast range of gravitational wave frequency bands.
 
-One of the observable gravitational wave sources is a phase transition in the early universe, leading to bubbles and/or topological defects. Axion, one of the dark matter candidates, also predicts hybrid type topological defects. Therefore, now will be a high time to understand the basic properties of topological defects originating in the fundamental physics. Topological defects are also important in low energy physics such as superconducters. 
+One of the observable gravitational wave sources is a phase transition in the early universe, leading to bubbles and/or topological defects. Axion, one of the dark matter candidates, also predicts composite topological defects. Therefore, now will be a high time to understand the basic properties of topological solitons originating in fundamental physics. Topological solitons are also important in low-energy physics such as superconducters. 
 
 Our purpose of this workshop is to share and discuss recent progress and new ideas on frontiers in gravity and fundamental physics and
 to trigger the interplay between fundamental physicists and cosmologists.
 
-This workshop is basically on-site. We lively broadcast the workshop through Zoom for online participants.  
-This year, the talks are given in Japanese.
+This workshop is on-site. We will broadcast the workshop through Zoom to online participants.  
+The talks are given in English.
 
 ### Keywords
 
-- Gravitational waves
-- Topological defects
-- Dark matter
-- Axions
-
-
+Keywords: 
+- dark matter, 
+- axions, 
+- phase transitions,
+- solitons, (including topological defects, Q-balls, oscillons,) 
+- gravitational waves.
 
 
 ## Invited Speakers
