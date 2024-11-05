@@ -61,21 +61,21 @@ Keywords:
 ## Photo
 <img src="image_50438657_reduced.jpg" width="460"> 
 
-## Registration closed (Deadline: 18th November, 2022)
+## Registration (Deadline: 15th December, 2024)
 
 Both of the registrations for on-site participation and for online participation have been closed. 
 
 ## Important Dates
 
-Registration Deadline for on-site participants: 28th October, 2022
+Registration Deadline for on-site participants: 15th December, 2024
 
-Registration Deadline for online participants: 18th November, 2022
+Registration Deadline for online participants: 15th January, 2025
 
 ## Schedule
 
-From 26th November, 2022 to 27th November, 2022
+From 4th to 5th of March, 2025
 
-We have invited sessions and a student session. No contributed talks.
+We have invited sessions and contributed talks.
 
 ## [Venue](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
 
@@ -105,15 +105,19 @@ Faculty of Engineering,
 
 ## Organizers
 
-- Ippei Obata (Kavli IPMU)
   
 - Masato Arai (Yamagata University)
 
 - Minoru Eto (Yamagata University)
 
+- Asuka Ito (Kobe University)
+
+- Ryusuke Jinno (Kobe University)
+  
+- Ippei Obata (Kavli IPMU)
+
 - Yuki Sakakihara (Yamagata University, Chief organizer)
 
-- Kazufumi Takahashi (Yukawa Institute for Theoretical Physics, Kyoto University)
 
 
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link)
@@ -127,14 +131,11 @@ This workshop is partly supported by
     - 21K03565 for Masato Arai (PI)
     - 19K03839 for Minoru Eto (PI)
 
-
 - Grant-in-Aid for Research Activity Start-up
     - 22K20365 for Yuki Sakakihara (PI)
 
 - Grant-in-Aid for Scientific Research (B) 
     - 22H01221 for Minoru Eto (co-PI)
-
-- Council for the Promotion of Academic City, Yonezawa City
 
 The venue and facilities are provided by Yamagata University
 
