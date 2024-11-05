@@ -24,27 +24,16 @@ Keywords:
 
 ## Invited Speakers
 
-- Yu Hamada (KEK)
+- Junseok Lee (Tohoku University)
 
-- Masahiro Ibe (ICRR, University of Tokyo)
+- Kaloian Lozanov (Kavli IPMU)
 
-- Asuka Ito (QUP, KEK)
+- Wakutaka Nakano (KEK)
 
-- Ryuichiro Kitano (KEK)
+- Nobuchika Okada (KEK)
 
-- Ryo Namba (RIKEN)
+- Graham White (RIKEN)
 
-- Muneto Nitta (Keio University)
-
-- Toshifumi Noumi (Kobe University)
-
-- Ken'ichi Saikawa (Kanazawa University)
-
-- Jiro Soda (Kobe University)
-
-- Fuminobu Takahashi (Tohoku University)
-
-- Kazuya Yonekura (Tohoku University)
 
 ## Student Speakers
 
