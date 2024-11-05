@@ -54,12 +54,12 @@ Keywords:
 
 - Takuya Takahashi (Kyoto University)
 
-## [Program](program)
+[](## [Program](program))
 
-## [Participants](participants)
+[](## [Participants](participants))
 
 ## Photo
-<img src="image_50438657_reduced.jpg" width="460"> 
+[](<img src="image_50438657_reduced.jpg" width="460">)
 
 ## Registration (Deadline: 15th December, 2024)
 
