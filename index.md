@@ -35,13 +35,7 @@ Keywords:
 - Graham White (Southampton University)
 
 
-## Student Speakers
-
-- Ann Nakato (Kobe University)
-
-- Yuito Suzuki (Yamagata University)
-
-- Takuya Takahashi (Kyoto University)
+[]( Student Speakers)
 
 []([Program](program))
 
