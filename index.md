@@ -30,9 +30,9 @@ Keywords:
 
 - Wakutaka Nakano (KEK)
 
-- Nobuchika Okada (KEK)
+- Nobuchika Okada (University of Alabama)
 
-- Graham White (RIKEN)
+- Graham White (Southampton University)
 
 
 ## Student Speakers
