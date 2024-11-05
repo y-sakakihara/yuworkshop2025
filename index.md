@@ -105,6 +105,8 @@ Faculty of Engineering,
 
 ## Organizers
 
+- Ippei Obata (Kavli IPMU)
+  
 - Masato Arai (Yamagata University)
 
 - Minoru Eto (Yamagata University)
