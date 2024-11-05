@@ -35,7 +35,7 @@ Keywords:
 - Graham White (Southampton University)
 
 
-[]( Student Speakers)
+[](Student Speakers)
 
 []([Program](program))
 
