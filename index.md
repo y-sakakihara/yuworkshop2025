@@ -58,7 +58,9 @@ Registration Deadline for online participants: 15th January, 2025
 
 From 4th to 5th of March, 2025
 
-We have invited talks (50min + 10min for each) and contributed talks.
+We have 
+- 6 invited talks (50min + 10min for each)
+- contributed talks (expected to be 15min + 5min, but it may be changed depending on the number of speakers.)
 
 ## [Venue](https://maps.app.goo.gl/M32i6LRHfAydxfDZA)
 
@@ -86,7 +88,7 @@ For more information on Yonezawa, please visit, e.g., [Travel Yonezawa](https://
 
 ## Information
 
-- Guest house in the campus: [Guest House YU (4MB pdf file)](guest_house_YU.pdf) (5min on foot from the venue) 
+<!-- - Guest house in the campus: [Guest House YU (4MB pdf file)](guest_house_YU.pdf) (5min on foot from the venue) --> 
 
 - Hotels:
    - [Den's Hotel Yonezawa](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by taxi from the campus)
