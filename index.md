@@ -60,7 +60,7 @@ From 4th to 5th of March, 2025
 
 We have invited talks (50min + 10min for each) and contributed talks.
 
-## [Venue](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
+## [Venue](https://maps.app.goo.gl/M32i6LRHfAydxfDZA)
 
 Seminar Room 1 and 2, 4th building,
 [Faculty of Engineering,
