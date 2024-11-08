@@ -78,9 +78,11 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
  
 ## Introduction of Yonezawa
 
-Yonezawa has a long history and is famous for being the land ruled by the Date and Uesugi families. Uesugi Shrine, Uesugi Clan Mausoleum, and Kasuga-san Rinsen-ji, the family temple of the Uesugi, are located here. The main building of Yonezawa Higher Technical School, the predecessor of Yamagata University's Faculty of Engineering, still exists in Yamagata University. The Okitama (or some call "Oitama") region, centered on Yonezawa, has many hot springs, including Onogawa Onsen, Shirabu Onsen, and Akayu Onsen.
+Yonezawa has a long history and is famous for being the land ruled by the Date and Uesugi families. Uesugi Shrine, Uesugi Clan Mausoleum, and Kasuga-san Rinsen-ji, the family temple of the Uesugi, are located here. [The main building of Yonezawa Higher Technical School](https://www.yz.yamagata-u.ac.jp/school/old-yonezawa/guide/), the predecessor of Yamagata University's Faculty of Engineering, still exists in Yamagata University. The Okitama (or some call "Oitama") region, centered on Yonezawa, has many hot springs, including Onogawa Onsen, Shirabu Onsen, and Akayu Onsen.
 
 For more information on Yonezawa, please visit, e.g., [Travel Yonezawa](https://en.travelyonezawa.com/).
+
+<img src="honkan_small.jpg" width="300"> <img src="uesugi_shrine_small.jpg" width="400">
 
 ## Information
 
