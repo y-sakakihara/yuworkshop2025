@@ -114,10 +114,11 @@ For more information on Yonezawa, please visit, e.g., [Travel Yonezawa](https://
 
 - Yuki Sakakihara (Yamagata University, Chief organizer)
 
-
-
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe1yUV56spXI7rPPEExUkI4PJ2Ucm2y_u3T3oRuPCq6f07zOw/viewform?usp=sf_link)
 
+## Secretary
+
+- Emiko Okatsu (Yamagata University)
 
 ## Sponsors
 
