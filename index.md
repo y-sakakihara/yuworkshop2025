@@ -58,7 +58,7 @@ Registration Deadline for online participants: 15th January, 2025
 
 From 4th to 5th of March, 2025
 
-We have invited sessions and contributed talks.
+We have invited talks (50min + 10min for each) and contributed talks.
 
 ## [Venue](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
 
