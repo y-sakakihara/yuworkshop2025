@@ -84,7 +84,11 @@ Faculty of Engineering,
    - [Hotel Alpha-1 Yonezawa](https://www.alpha-1.co.jp/yonezawa/) (5min on foot from the Yonezawa station)
    - [Hotel Route Inn Yonezawa](https://www.route-inn.co.jp/hotel_list/yamagata/index_hotel_id_206/) (10min on foot from the Yonezawa station)
 
-- Local Buses: [City Bus](https://www.city.yonezawa.yamagata.jp/2792.html) (Get off at Yamadai-Seimon)
+- Local Buses:
+  
+   -  
+   -  [City circulation line (clockwise)](https://honyaku.j-server.com/LUCYNZWC/ns/tl.cgi/https://www.city.yonezawa.yamagata.jp/seikatsu_navi/bus/6937.html?SLANG=ja&TLANG=en&XMODE=0&XPARAM=number-search-input,sp-number-search-input,&XCHARSET=utf-8&XPORG=,,&XJSID=0) (Get off at Yamadai-Seimon, [Japanese version](https://www.city.yonezawa.yamagata.jp/material/files/group/8/junkan_right_.pdf))
+   -  [Gakuen-Toshi Line](https://honyaku.j-server.com/LUCYNZWC/ns/tl.cgi/https://www.city.yonezawa.yamagata.jp/seikatsu_navi/bus/6939.html?SLANG=ja&TLANG=en&XMODE=0&XJSID=0) (Get off at Johnan-Nichome, [Japanese version](https://www.city.yonezawa.yamagata.jp/material/files/group/8/gakuenntoshizikoku.pdf) )
 
 - Local Buses: [Yamako Bus](http://www.yamakobus.co.jp/rosenbus/jikoku/frame/shirabu.html) (Get off at Johnan-Nichome)
 
