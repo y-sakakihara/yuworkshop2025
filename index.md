@@ -29,11 +29,11 @@ Keywords:
 
 - Kaloian Lozanov (Kavli IPMU)
 
-- Takashi Toma (Kanazawa University)
-
 - Wakutaka Nakano (KEK)
 
 - Nobuchika Okada (University of Alabama, Online)
+  
+- Takashi Toma (Kanazawa University)
 
 - Graham White (University of Southampton, Online)
 
