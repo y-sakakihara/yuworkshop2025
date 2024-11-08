@@ -42,9 +42,9 @@ Keywords:
 []([Participants](participants))
 
 ## Photo
-[](<img src="image_50438657_reduced.jpg" width="460">)
+<!-- <img src="image_50438657_reduced.jpg" width="460"> -->
 
-## Registration (Deadline: 15th December, 2024)
+## [Registration](https://docs.google.com/forms/d/e/1FAIpQLScF8hF8p2rPiRJFfK1DiXLNzbmRk_zwmg6DocQqgY1qxQ03ng/viewform?usp=sf_link) (Deadline: 15th December, 2024)
 
 <!--Both of the registrations for on-site participation and for online participation have been closed. -->
 
@@ -63,8 +63,8 @@ We have invited sessions and contributed talks.
 ## [Venue](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
 
 Seminar Room 1 and 2, 4th building,
-Faculty of Engineering,
-[Yamagata University](https://www.yamagata-u.ac.jp/en/), 
+[Faculty of Engineering,
+Yamagata University](https://www.yz.yamagata-u.ac.jp/en/), 
 4-3-16, Jonan, Yonezawa, 992-8510, Yamagata
 
 - 8min from Yonezawa Station by taxi
@@ -108,7 +108,7 @@ Faculty of Engineering,
 
 
 
-[Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link)
+[Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe1yUV56spXI7rPPEExUkI4PJ2Ucm2y_u3T3oRuPCq6f07zOw/viewform?usp=sf_link)
 
 
 ## Sponsors
@@ -128,7 +128,8 @@ This workshop is partly supported by
 The venue and facilities are provided by Yamagata University
 
 
-<img src="KAKENHIlogo_L.jpg" width="240"> <img src="yonezawa_emblem.png" width="110"> <img src="YU-logomark01.png" width="460">
+<img src="KAKENHIlogo_L.jpg" width="240"> <img src="YU-logomark01.png" width="460">
+<!-- <img src="yonezawa_emblem.png" width="110">-->
 
 
 
