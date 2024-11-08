@@ -28,11 +28,13 @@ Keywords:
 
 - Kaloian Lozanov (Kavli IPMU)
 
+- Takashi Toma (Kanazawa University)
+
 - Wakutaka Nakano (KEK)
 
-- Nobuchika Okada (University of Alabama)
+- Nobuchika Okada (University of Alabama, Online)
 
-- Graham White (Southampton University)
+- Graham White (Southampton University, Online)
 
 []([Program](program))
 
@@ -43,7 +45,7 @@ Keywords:
 
 ## Registration (Deadline: 15th December, 2024)
 
-Both of the registrations for on-site participation and for online participation have been closed. 
+[](Both of the registrations for on-site participation and for online participation have been closed. )
 
 ## Important Dates
 
@@ -59,7 +61,7 @@ We have invited sessions and contributed talks.
 
 ## [Venue](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
 
-Centennial Hall,
+Seminar Room 1 and 2, 4th building,
 Faculty of Engineering,
 [Yamagata University](https://www.yamagata-u.ac.jp/en/), 
 4-3-16, Jonan, Yonezawa, 992-8510, Yamagata
@@ -77,7 +79,7 @@ Faculty of Engineering,
 
 - Guest house in the campus: [Guest House YU (4MB pdf file)](guest_house_YU.pdf) (5min on foot from the venue) 
 
-- Hotels: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by taxi from the campus)
+- Hotels: [Den's Hotel Yonezawa](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by taxi from the campus)
 
 - Local Buses: [City Bus](https://www.city.yonezawa.yamagata.jp/2792.html) (Get off at Yamadai-Seimon)
 
