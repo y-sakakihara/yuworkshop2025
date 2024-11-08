@@ -35,7 +35,7 @@ Keywords:
 
 - Nobuchika Okada (University of Alabama, Online)
 
-- Graham White (Southampton University, Online)
+- Graham White (University of Southampton, Online)
 
 []([Program](program))
 
