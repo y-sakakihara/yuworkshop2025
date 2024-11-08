@@ -79,9 +79,10 @@ Faculty of Engineering,
 
 - Guest house in the campus: [Guest House YU (4MB pdf file)](guest_house_YU.pdf) (5min on foot from the venue) 
 
-- Hotels: [Den's Hotel Yonezawa](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by taxi from the campus)
-- [Hotel Alpha-1 Yonezawa](https://www.alpha-1.co.jp/yonezawa/) (5min on foot from the Yonezawa station)
-- [Hotel Route Inn Yonezawa] (https://www.route-inn.co.jp/hotel_list/yamagata/index_hotel_id_206/) (10min on foot from the Yonezawa station)
+- Hotels:
+   - [Den's Hotel Yonezawa](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by taxi from the campus)
+   - [Hotel Alpha-1 Yonezawa](https://www.alpha-1.co.jp/yonezawa/) (5min on foot from the Yonezawa station)
+   - [Hotel Route Inn Yonezawa](https://www.route-inn.co.jp/hotel_list/yamagata/index_hotel_id_206/) (10min on foot from the Yonezawa station)
 
 - Local Buses: [City Bus](https://www.city.yonezawa.yamagata.jp/2792.html) (Get off at Yamadai-Seimon)
 
