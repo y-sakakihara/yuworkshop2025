@@ -135,6 +135,9 @@ This workshop is partly supported by
 
 - Grant-in-Aid for Scientific Research (B) 
     - 22H01221 for Minoru Eto (co-PI)
+    
+- Grant-in-Aid for Scientific Research (young researcher)
+    - 19K14702 for Ippei Obata (PI)
 
 The venue and facilities are provided by Yamagata University
 
