@@ -128,7 +128,6 @@ This workshop is partly supported by
 
 - Grant-in-Aid for Scientific Research (C)
     - 21K03565 for Masato Arai (PI)
-    - 19K03839 for Minoru Eto (PI)
 
 - Grant-in-Aid for Research Activity Start-up
     - 22K20365 for Yuki Sakakihara (PI)
