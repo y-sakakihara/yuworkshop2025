@@ -137,13 +137,13 @@ This workshop is partly supported by
 - Grant-in-Aid for Research Activity Start-up
     - 23K19048 for Ryusuke Jinno (PI)
     - 22K20365 for Yuki Sakakihara (PI)
+ 
+- Grant-in-Aid for Scientific Research (Young Scientist)
+    - 22K14034 for Asuka Ito (PI)
+    - 19K14702 for Ippei Obata (PI)
 
 - Grant-in-Aid for Scientific Research (B) 
     - 22H01221 for Minoru Eto (co-PI)
-    
-- Grant-in-Aid for Scientific Research (young scientist)
-    - 22K14034 for Asuka Ito (PI)
-    - 19K14702 for Ippei Obata (PI)
 
 The venue and facilities are provided by Yamagata University
 
