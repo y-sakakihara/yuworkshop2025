@@ -132,7 +132,6 @@ This workshop is supported by the following KAKENHI and Yamagata University.
 
 - Grant-in-Aid for Scientific Research (C)
     - 24K07013 for Ryusuke Jinno (PI)
-    - 21K03565 for Masato Arai (PI)
 
 - Grant-in-Aid for Research Activity Start-up
     - 23K19048 for Ryusuke Jinno (PI)
