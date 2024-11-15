@@ -128,7 +128,7 @@ For more information on Yonezawa, please visit, e.g., [Travel Yonezawa](https://
 
 ## Sponsors
 
-This workshop is partly supported by 
+This workshop is supported by the following KAKENHI and Yamagata University.
 
 - Grant-in-Aid for Scientific Research (C)
     - 24K07013 for Ryusuke Jinno (PI)
@@ -138,14 +138,17 @@ This workshop is partly supported by
     - 23K19048 for Ryusuke Jinno (PI)
     - 22K20365 for Yuki Sakakihara (PI)
  
-- Grant-in-Aid for Scientific Research (Young Scientist)
+- Grant-in-Aid for Early-Career Scientists
     - 22K14034 for Asuka Ito (PI)
     - 19K14702 for Ippei Obata (PI)
+      
+- Grant-in-Aid for Exploratory Research
+    - 23K17687 for Ryusuke Jinno (co-PI)
 
 - Grant-in-Aid for Scientific Research (B) 
     - 22H01221 for Minoru Eto (co-PI)
 
-The venue and facilities are provided by Yamagata University
+The venue and facilities are provided by Yamagata University.
 
 
 <img src="KAKENHIlogo_L.jpg" width="240"> <img src="YU-logomark01.png" width="460">
