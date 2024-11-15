@@ -10,10 +10,10 @@ One of the observable gravitational wave sources is a phase transition in the ea
 Our purpose of this workshop is to share and discuss recent progress and new ideas on frontiers in gravity and fundamental physics and
 to trigger the interplay between fundamental physicists and cosmologists.
 
-We welcome contributed talks, with a strong preference for on-site speakers.
+***We welcome contributed talks, with a strong preference for on-site speakers.***  
 
-This workshop is hybrid. We broadcast the workshop via Zoom to online participants.
-All the talks in this workshop are given in English.
+This workshop is hybrid. We broadcast the workshop via Zoom to online participants.  
+All the talks in this workshop are given in *English*.
 
 ### Keywords
 
@@ -131,9 +131,11 @@ For more information on Yonezawa, please visit, e.g., [Travel Yonezawa](https://
 This workshop is partly supported by 
 
 - Grant-in-Aid for Scientific Research (C)
+    - 24K07013 for Ryusuke Jinno (PI)
     - 21K03565 for Masato Arai (PI)
 
 - Grant-in-Aid for Research Activity Start-up
+    - 23K19048 for Ryusuke Jinno (PI)
     - 22K20365 for Yuki Sakakihara (PI)
 
 - Grant-in-Aid for Scientific Research (B) 
