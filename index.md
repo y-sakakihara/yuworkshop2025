@@ -10,8 +10,10 @@ One of the observable gravitational wave sources is a phase transition in the ea
 Our purpose of this workshop is to share and discuss recent progress and new ideas on frontiers in gravity and fundamental physics and
 to trigger the interplay between fundamental physicists and cosmologists.
 
-This workshop is on-site. We will broadcast the workshop through Zoom to online participants.  
-The talks are given in English.
+We welcome contributed talks, with a strong preference for on-site speakers.
+
+This workshop is hybrid. We broadcast the workshop via Zoom to online participants.
+All the talks in this workshop are given in English.
 
 ### Keywords
 
