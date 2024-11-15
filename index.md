@@ -50,9 +50,11 @@ Keywords:
 
 ## Important Dates
 
-Registration Deadline for on-site participants: 15th December, 2024
+Abstract Submission Deadline (for both on-site and online contributed talks): 15th December, 2024
 
-Registration Deadline for online participants: 15th January, 2025
+Registration deadline for on-site participants: 15th December, 2024
+
+Registration deadline for online participants: 15th January, 2025
 
 ## Schedule
 
