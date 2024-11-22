@@ -14,6 +14,7 @@ to trigger the interplay between fundamental physicists and cosmologists.
 
 This workshop is hybrid. We broadcast the workshop via Zoom to online participants.  
 All the talks in this workshop are given in *English*.
+The time zone is JST (UTC+9).
 
 ### Keywords
 
