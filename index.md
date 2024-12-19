@@ -47,15 +47,15 @@ Keywords:
 ## Photo
 <!-- <img src="image_50438657_reduced.jpg" width="460"> -->
 
-## [Registration](https://docs.google.com/forms/d/e/1FAIpQLScF8hF8p2rPiRJFfK1DiXLNzbmRk_zwmg6DocQqgY1qxQ03ng/viewform?usp=sf_link) (Deadline: 15th December, 2024)
+## [Registration](https://docs.google.com/forms/d/e/1FAIpQLScF8hF8p2rPiRJFfK1DiXLNzbmRk_zwmg6DocQqgY1qxQ03ng/viewform?usp=sf_link) 
 
 <!--Both of the registrations for on-site participation and for online participation have been closed. -->
 
 ## Important Dates
 
-Abstract Submission Deadline (for both on-site and online contributed talks): 15th December, 2024
+Abstract Submission Deadline (for both on-site and online contributed talks): ***extended until the slots for contributed talks are filled (no later than 15th January, 2025)*** *~~15th December, 2024~~*
 
-Registration deadline for on-site participants: 15th December, 2024
+Registration deadline for on-site participants: ***15th January, 2025*** *~~15th December, 2024~~*
 
 Registration deadline for online participants: 15th January, 2025
 
