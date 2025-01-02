@@ -34,15 +34,15 @@ Keywords:
 
 - Wakutaka Nakano (KEK)
 
-- Nobuchika Okada (University of Alabama, Online)
+- Nobuchika Okada (University of Alabama, *Online*)
   
 - Takashi Toma (Kanazawa University)
 
-- Graham White (University of Southampton, Online)
+- Graham White (University of Southampton, *Online*)
 
 ## Speakers
 
-- Gonzalo	Alonso-Alvarez (University of Toronto, Online)
+- Gonzalo	Alonso-Alvarez (University of Toronto, *Online*)
 
 - Takumi Fujimori	(Osaka Metropolitan University)
 
