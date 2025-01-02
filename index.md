@@ -40,6 +40,19 @@ Keywords:
 
 - Graham White (University of Southampton, Online)
 
+## Speakers
+
+- Gonzalo	Alonso-Alvarez (University of Toronto, Online)
+
+- Takumi Fujimori	(Osaka Metropolitan University)
+
+- Katsuya Hashino (NIT, Fukushima College)
+
+- Jan Tränkle	(ITP Leibniz University Hannover)
+
+- Lukas Treuer (KEK, The Graduate U. Adv. Studies (SOKENDAI))
+
+
 []([Program](program))
 
 []([Participants](participants))
