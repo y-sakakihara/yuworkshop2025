@@ -28,6 +28,8 @@ Keywords:
 
 ## Invited Speakers
 
+- Elisa Ferreira (Kavli IPMU)
+  
 - Junseok Lee (Tohoku University)
 
 - Kaloian Lozanov (Kavli IPMU)
