@@ -68,9 +68,9 @@ Keywords:
 
 ## Important Dates
 
-Abstract Submission Deadline (for both on-site and online contributed talks): ***extended until the slots for contributed talks are filled (no later than 15th January, 2025)*** *~~15th December, 2024~~*
+Abstract Submission Deadline (for both on-site and online contributed talks): *Closed* <!--*~~extended until the slots for contributed talks are filled (no later than 15th January, 2025)~~* *~~15th December, 2024~~*-->
 
-Registration deadline for on-site participants: ***15th January, 2025*** *~~15th December, 2024~~*
+Registration deadline for on-site participants: ***15th January, 2025*** <!--*~~15th December, 2024~~*-->
 
 Registration deadline for online participants: 15th January, 2025
 
