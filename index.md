@@ -72,7 +72,7 @@ Abstract Submission Deadline (for both on-site and online contributed talks): *C
 
 Registration deadline for on-site participants: ***15th January, 2025*** <!--*~~15th December, 2024~~*-->
 
-Registration deadline for online participants: 15th January, 2025
+Registration deadline for online participants: ***15th February, 2025*** <!--15th January, 2025-->
 
 ## Schedule
 
