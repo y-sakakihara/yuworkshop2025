@@ -10,7 +10,7 @@ One of the observable gravitational wave sources is a phase transition in the ea
 Our purpose of this workshop is to share and discuss recent progress and new ideas on frontiers in gravity and fundamental physics and
 to trigger the interplay between fundamental physicists and cosmologists.
 
-***We welcome contributed talks, with a preference for on-site speakers.***  
+<!--***We welcome contributed talks, with a preference for on-site speakers.***  -->
 
 This workshop is hybrid. We broadcast the workshop via Zoom to online participants.  
 All the talks in this workshop are given in *English*.
@@ -50,10 +50,15 @@ Keywords:
 
 - Katsuya Hashino (NIT, Fukushima College)
 
+- Asuka Ito (Kobe University)
+
+- Ryusuke Jinno (Kobe University)
+
+- Ippei Obata (Kavli IPMU)
+
 - Jan Tränkle	(ITP Leibniz University Hannover)
 
 - Lukas Treuer (KEK, The Graduate U. Adv. Studies (SOKENDAI))
-
 
 []([Program](program))
 
@@ -79,8 +84,8 @@ Registration deadline for online participants: ***15th February, 2025*** <!--15t
 From 4th to 5th of March, 2025
 
 We have 
-- 6 invited talks (50min + 10min for each)
-- contributed talks (expected to be 15min + 5min, but it may be changed depending on the number of speakers.)
+- invited talks (50min + 10min for each)
+- contributed talks (15min + 5min for each) <!--(expected to be 15min + 5min, but it may be changed depending on the number of speakers.)-->
 
 ## [Venue](https://maps.app.goo.gl/M32i6LRHfAydxfDZA)
 
