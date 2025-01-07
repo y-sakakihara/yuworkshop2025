@@ -24,7 +24,7 @@ Session 1 (Chair: )
 
 Session 2 (Chair: )
 
-| 11:00-12:00 | Wakutaka Nakano | []() |
+| 11:00-12:00 | Wakutaka Nakano | Gravitational wave spectrum from expanding string loops on domain walls: Implication for nanohertz pulsar timing array signals |
 
 12:00-13:30  Lunch
 
@@ -32,7 +32,7 @@ Session 3 (Chair: )
 
 | 13:30-13:50 | Katsuya Hashino | []() |
 | 13:50-14:10 | Ryusuke Jinno | []() |
-| 14:10-15:10 | Kaloian Lozanov | [Solitons in the primordial universe]() |
+| 14:10-15:10 | Kaloian Lozanov | Solitons in the primordial universe |
 
 15:10-15:30 Break
 
@@ -40,13 +40,13 @@ Session 4 (Chair: )
 
 | 15:30-15:50 | Ippei Obata | []() |
 | 15:50-16:10 | Jan Tränkle | []() |
-| 16:10-17:10 | Takashi Toma | []() |
+| 16:10-17:10 | Takashi Toma | Probing pseudo-Nambu-Goldstone dark matter evading direct detection bounds |
 
 17:10-17:30 Break
 
 Session 5 (Chair: )
 
-| 17:30-18:30 | Graham White (*Online*) | []() |
+| 17:30-18:30 | Graham White (*Online*) | Why quantum gravity made me fall in love with domain walls |
 
 18:40-20:40 Banquet
 
@@ -56,13 +56,13 @@ Session 6 (Chair: )
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
-| 10:00-11:00 | Nobuchika Okada (*Online*) | []() |
+| 10:00-11:00 | Nobuchika Okada (*Online*) | Inflation, dark matter, neutrino mass generation, and gravitational waves in gauge extensions of the Standard Model |
 
 11:00-11:20 Break
 
 Session 7 (Chair: )
 
-| 11:20-12:20 | Junseok Lee | []()|
+| 11:20-12:20 | Junseok Lee | Topological Defects with Multi-Axion |
 
 12:20-12:30 Photo
 
@@ -77,7 +77,7 @@ Session 8 (Chair: )
 
 Session 9 (Chair: )
 
-| 15:00-16:00 | Elisa Ferreira | []() |
+| 15:00-16:00 | Elisa Ferreira | TBA |
 
 16:00-16:05 Break
 
