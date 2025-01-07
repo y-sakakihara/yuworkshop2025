@@ -60,7 +60,7 @@ Keywords:
 
 - Lukas Treuer (KEK, The Graduate U. Adv. Studies (SOKENDAI))
 
-[]([Program](program))
+[Program](program)
 
 []([Participants](participants))
 
@@ -128,7 +128,6 @@ For more information on Yonezawa, please visit, e.g., [Travel Yonezawa](https://
 
 ## Organizers
 
-  
 - Masato Arai (Yamagata University)
 
 - Minoru Eto (Yamagata University)
