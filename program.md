@@ -23,13 +23,14 @@ Session 1 (Chair: )
 
 10:40-11:00    Break
 
-Session 2 (Chair: )
+*Session 2 (Chair: )*
 
 | 11:00-12:00 | Wakutaka Nakano | Gravitational wave spectrum from expanding string loops on domain walls: Implication for nanohertz pulsar timing array signals |
 
 12:00-13:30  Lunch
 
-*Session 3 (Chair: )*  
+*Session 3 (Chair: )*
+
 | 13:30-13:50 | Katsuya Hashino | Precisely probing the Higgs potential at the gravitational wave observation experiments |
 | 13:50-14:10 | Ryusuke Jinno | TBA |
 | 14:10-15:10 | Kaloian Lozanov | Solitons in the primordial universe |
