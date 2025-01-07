@@ -74,7 +74,7 @@ Keywords:
 ## Important Notices
 
 On-site participants need to pay the following ***in cash (JPY)*** on your arrival: 
-- Participation Fee: 1,000 JPY
+- Participation Fee: 1,000JPY
 - (if you join the banquet)  Banquet Fee: TBD
 - (if you made a reservation in advance) Lunch box: 1,000JPY/day
 
