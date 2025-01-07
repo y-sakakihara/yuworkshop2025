@@ -7,7 +7,7 @@
 - Each contributed talk is for 15min + 5min discussion. 
 <!--- Both of them include time for questions and comments.-->
 
-## First Day (Tuesday, March 3, 2025)
+## First Day (Tuesday, March 4, 2025)
 
 9:30-9:55 Registration
 
@@ -50,35 +50,34 @@ Session 5 (Chair: )
 
 18:40-20:40 Banquet
 
-## Second Day　(Sunday, 27th November 2022)
+## Second Day (Wednesday, March 5, 2025)
 
-Invited session 4 (Chair: )
+Session 6 (Chair: )
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
-| 9:30-10:15 | Ryo Namba | On the application of Borel-resummed WKB to particle production in cosmology |
-| 10:15-11:00| Toshifumi Noumi | [S-matrix approach to the Swampland Program](20221127_02_noumi.pdf) |
+| 10:00-11:00 | Nobuchika Okada | []() |
 
-11:00-11:15 Break
+11:00-11:20 Break
 
-Invited session 5 (Chair: Masato Arai)
+| 11:20-12:20 | Junseok Lee | []()|
 
-| 11:15-12:00 | Masahiro Ibe | [Gauge Kinetic Mixing and Dark Topological Defects](20221127_03_ibe.pdf) |
+12:20-12:30 Photo
 
-12:00-13:30 Lunch
+12:30-14:00 Lunch
 
-Invited session 6 (Chair: Minoru Eto)
+Session 7 (Chair: )
 
-| 13:30-14:15 | Fuminobu Takahashi | [Axion domain walls and cosmic birefringence](20221127_04_takahashi.pdf) |
-| 14:15-15:00 | Muneto Nitta | [Physics of negative energy solitons](20221127_05_nitta.pdf) |
+| 14:00-14:20 | Lukas Treuer | []() |
+| 14:20-14:40 | Takumi Fujimori | []() |
 
-15:00-15:15 Break
+14:40-15:00 Break
 
-Invited session 7 (Chair: Yuki Sakakihara)
+| 15:00-16:00 | Elisa Ferreira | []() |
 
-| 15:15-16:00 | Ken’ichi Saikawa | [Axion string simulations](20221127_06_saikawa.pdf) |
+16:00-16:05 Break
 
-
+16:05-17:00 Discussion
 
 
 
