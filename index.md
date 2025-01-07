@@ -71,6 +71,13 @@ Keywords:
 
 <!--Both of the registrations for on-site participation and for online participation have been closed. -->
 
+## Important Notices
+
+On-site participants need to pay the following in ***cash*** on your arrival: 
+- Participation Fee: 1,000 JPY
+- (if you join the banquet)  Banquet Fee: TBD
+- (if you made a reservation in advance) Lunch box: 1,000JPY/day
+
 ## Important Dates
 
 Abstract Submission Deadline (for both on-site and online contributed talks): *Closed* <!--*~~extended until the slots for contributed talks are filled (no later than 15th January, 2025)~~* *~~15th December, 2024~~*-->
