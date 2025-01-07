@@ -60,7 +60,7 @@ Keywords:
 
 - Lukas Treuer (KEK, The Graduate U. Adv. Studies (SOKENDAI))
 
-[Program](program)
+[Timetable](program)
 
 []([Participants](participants))
 
@@ -89,6 +89,10 @@ Registration deadline for online participants: ***15th February, 2025*** <!--15t
 ## Schedule
 
 From 4th to 5th of March, 2025
+
+The first talk starts at 10:00 (JST) on the first day.
+
+The final talk ends at 16:00 (JST) on the second day.
 
 We have 
 - invited talks (50min + 10min for each)
