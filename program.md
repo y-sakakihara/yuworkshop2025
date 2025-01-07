@@ -32,7 +32,7 @@ Session 3 (Chair: )
 
 | 13:30-13:50 | Katsuya Hashino | []() |
 | 13:50-14:10 | Ryusuke Jinno | []() |
-| 14:10-15:10 | Kaloian Lozanov | []() |
+| 14:10-15:10 | Kaloian Lozanov | [Solitons in the primordial universe]() |
 
 15:10-15:30 Break
 
