@@ -18,7 +18,7 @@ Session 1 (Chair: )
 | Time | Speaker | Title of the talk |
 |----|----|----|
 | 10:00-10:20 | Gonzalo Alonso-Alvarez (*Online*) | []() |
-| 10:20-10:40 | Jan Tränkle | []() |
+| 10:20-10:40 | Asuka Ito | []() |
 
 10:40-11:00    Break
 
@@ -39,7 +39,7 @@ Session 3 (Chair: )
 Session 4 (Chair: )
 
 | 15:30-15:50 | Ippei Obata | []() |
-| 15:50-16:10 | Asuka Ito | []() |
+| 15:50-16:10 | Jan Tränkle | []() |
 | 16:10-17:10 | Takashi Toma | []() |
 
 17:10-17:30 Break
