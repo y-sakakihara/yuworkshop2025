@@ -4,7 +4,8 @@
 
 - Times are in JST. 
 - Each invited talk is for 50min + 10min discussion. 
-- Each contributed talk is for 15min + 5min discussion. 
+- Each contributed talk is for 15min + 5min discussion.
+- No printed timetable is provided at the venue. If you need one, please print this page.
 <!--- Both of them include time for questions and comments.-->
 
 ## First Day (Tuesday, March 4, 2025)
