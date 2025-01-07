@@ -46,7 +46,7 @@ Session 4 (Chair: )
 
 Session 5 (Chair: )
 
-| 17:30-18:30 | Graham White | []() |
+| 17:30-18:30 | Graham White (*Online*) | []() |
 
 18:40-20:40 Banquet
 
@@ -56,7 +56,7 @@ Session 6 (Chair: )
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
-| 10:00-11:00 | Nobuchika Okada | []() |
+| 10:00-11:00 | Nobuchika Okada (*Online*) | []() |
 
 11:00-11:20 Break
 
