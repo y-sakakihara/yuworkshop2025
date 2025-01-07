@@ -17,8 +17,8 @@ Session 1 (Chair: )
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
-| 10:00-10:20 | Gonzalo Alonso-Alvarez (*Online*) | []() |
-| 10:20-10:40 | Asuka Ito | []() |
+| 10:00-10:20 | Gonzalo Alonso-Alvarez (*Online*) | The role of dark matter in supermassive black hole mergers |
+| 10:20-10:40 | Asuka Ito | TBA |
 
 10:40-11:00    Break
 
@@ -30,16 +30,16 @@ Session 2 (Chair: )
 
 Session 3 (Chair: )
 
-| 13:30-13:50 | Katsuya Hashino | []() |
-| 13:50-14:10 | Ryusuke Jinno | []() |
+| 13:30-13:50 | Katsuya Hashino | Precisely probing the Higgs potential at the gravitational wave observation experiments |
+| 13:50-14:10 | Ryusuke Jinno | TBA |
 | 14:10-15:10 | Kaloian Lozanov | Solitons in the primordial universe |
 
 15:10-15:30 Break
 
 Session 4 (Chair: )
 
-| 15:30-15:50 | Ippei Obata | []() |
-| 15:50-16:10 | Jan Tränkle | []() |
+| 15:30-15:50 | Ippei Obata | TBA |
+| 15:50-16:10 | Jan Tränkle |  Induced gravitational wave probes of the primordial black hole reheating scenario  |
 | 16:10-17:10 | Takashi Toma | Probing pseudo-Nambu-Goldstone dark matter evading direct detection bounds |
 
 17:10-17:30 Break
@@ -70,8 +70,9 @@ Session 7 (Chair: )
 
 Session 8 (Chair: )
 
-| 14:00-14:20 | Lukas Treuer | []() |
-| 14:20-14:40 | Takumi Fujimori | []() |
+| 14:00-14:20 | Lukas Treuer | Quantum Effects on Neutrino Parameters From a Flavored Gauge Boson |
+| 14:20-14:40 | Takumi Fujimori | The correction of the relative motion of detectors
+for Ultra-Light Dark Matter search |
 
 14:40-15:00 Break
 
