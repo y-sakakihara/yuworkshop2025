@@ -126,6 +126,13 @@ For more information on Yonezawa, please visit, e.g., [Travel Yonezawa](https://
 
 <!-- - Local Buses: [Yamako Bus](http://www.yamakobus.co.jp/rosenbus/jikoku/frame/shirabu.html) (Get off at Johnan-Nichome) -->
 
+## Previous workshops
+
+This is the second workshop on Frontiers in Gravity and Fundamental Physics.
+
+[Frontiers in Gravity and Fundamental Physics (YU Workshop 2022)](https://y-sakakihara.github.io/yuworkshop2025/)
+
+
 ## Organizers
 
 - Masato Arai (Yamagata University)
