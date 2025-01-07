@@ -45,9 +45,10 @@ Session 4 (Chair: )
 17:10-17:30 Break
 
 Session 5 (Chair: )
+
 | 17:30-18:30 | Graham White | []() |
 
-18:45-20:45 Banquet
+18:40-20:40 Banquet
 
 ## Second Day　(Sunday, 27th November 2022)
 
