@@ -14,7 +14,7 @@
 
 9:55-10:00 Opening
 
-Session 1 (Chair: )
+*Session 1 (Chair: )*
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
@@ -45,7 +45,7 @@ Session 1 (Chair: )
 
 17:10-17:30 Break
 
-Session 5 (Chair: )
+*Session 5 (Chair: )*
 
 | 17:30-18:30 | Graham White (*Online*) | Why quantum gravity made me fall in love with domain walls |
 
@@ -53,7 +53,7 @@ Session 5 (Chair: )
 
 ## Second Day (Wednesday, March 5, 2025)
 
-Session 6 (Chair: )
+*Session 6 (Chair: )*
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
@@ -61,7 +61,7 @@ Session 6 (Chair: )
 
 11:00-11:20 Break
 
-Session 7 (Chair: )
+*Session 7 (Chair: )*
 
 | 11:20-12:20 | Junseok Lee | Topological Defects with Multi-Axion |
 
@@ -69,14 +69,14 @@ Session 7 (Chair: )
 
 12:30-14:00 Lunch
 
-Session 8 (Chair: )
+*Session 8 (Chair: )*
 
 | 14:00-14:20 | Lukas Treuer | Quantum Effects on Neutrino Parameters From a Flavored Gauge Boson |
 | 14:20-14:40 | Takumi Fujimori | The correction of the relative motion of detectors for Ultra-Light Dark Matter search |
 
 14:40-15:00 Break
 
-Session 9 (Chair: )
+*Session 9 (Chair: )*
 
 | 15:00-16:00 | Elisa Ferreira | TBA |
 
