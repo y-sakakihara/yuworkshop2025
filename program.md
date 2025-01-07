@@ -60,18 +60,22 @@ Session 6 (Chair: )
 
 11:00-11:20 Break
 
+Session 7 (Chair: )
+
 | 11:20-12:20 | Junseok Lee | []()|
 
 12:20-12:30 Photo
 
 12:30-14:00 Lunch
 
-Session 7 (Chair: )
+Session 8 (Chair: )
 
 | 14:00-14:20 | Lukas Treuer | []() |
 | 14:20-14:40 | Takumi Fujimori | []() |
 
 14:40-15:00 Break
+
+Session 9 (Chair: )
 
 | 15:00-16:00 | Elisa Ferreira | []() |
 
