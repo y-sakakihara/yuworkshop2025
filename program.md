@@ -24,14 +24,12 @@ Session 1 (Chair: )
 
 Session 2 (Chair: )
 
-|----|----|----|
 | 11:00-12:00 | Wakutaka Nakano | []() |
 
 12:00-13:30  Lunch
 
 Session 3 (Chair: )
 
-|----|----|----|
 | 13:30-13:50 | Katsuya Hashino | []() |
 | 13:50-14:10 | Ryusuke Jinno | []() |
 | 14:10-15:10 | Kaloian Lozanov | []() |
@@ -40,14 +38,13 @@ Session 3 (Chair: )
 
 Session 4 (Chair: )
 
-|----|----|----|
 | 15:30-15:50 | Ippei Obata | []() |
 | 15:50-16:10 | Asuka Ito | []() |
 | 16:10-17:10 | Takashi Toma | []() |
 
 17:10-17:30 Break
 
-|----|----|----|
+Session 5 (Chair: )
 | 17:30-18:30 | Graham White | []() |
 
 18:45-20:45 Banquet
