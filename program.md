@@ -3,48 +3,58 @@
 [**Home**](index)
 
 - Times are in JST. 
-- Each invited talk is for 45min. 
-- Each student talk is for 20min. 
-- Both of them include time for questions and comments.
+- Each invited talk is for 50min + 10min discussion. 
+- Each contributed talk is for 15min + 5min discussion. 
+<!--- Both of them include time for questions and comments.-->
 
-## First Day (Saturday, 26th November 2022)
+## First Day (Tuesday, March 3, 2025)
 
+9:30-9:55 Registration
 
+9:55-10:00 Opening
 
-Invited session 1  (Chair: Masato Arai)
+Session 1 (Chair: )
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
-| 10:00-10:45 | Asuka Ito | [On the propagation speed of photons in axion DM](20221126_01_ito.pdf) |
-| 10:45-11:30 | Kazuya Yonekura | [Cosmic strings from pure Yang-Mills theory](20221126_02_yonekura.pdf) |
+| 10:00-10:20 | Gonzalo Alonso-Alvarez (*Online*) | []() |
+| 10:20-10:40 | Jan Tränkle | []() |
 
-11:30-13:00    Lunch
+10:40-11:00    Break
 
-Invited session 2 (Chair: Minoru Eto)
-
-|----|----|----|
-| 13:00-13:45  | Yu Hamada | [Link soliton in models with B-L and Peccei-Quinn symmetries](20221126_03_hamada.pdf) |
-| 13:45-14:30  | Ryuichiro Kitano | [Physics of pancake solitons](20221126_04_kitano.pdf) |
-
-14:30-14:45  Break
-
-Invited session 3 (Chair: Kazufumi Takahashi)
+Session 2 (Chair: )
 
 |----|----|----|
-| 14:45-15:30 | Jiro Soda | Primordial gravitational waves and their non-classicality |
+| 11:00-12:00 | Wakutaka Nakano | []() |
 
-15:30-15:45 Break
+12:00-13:30  Lunch
 
-Student session (Chair: Yuki Sakakihara)
+Session 3 (Chair: )
 
 |----|----|----|
-| 15:45-16:05 | Takuya Takahashi | [Evolution of axion clouds in black hole binaries](20221126_06_takahashi.pdf) |
-| 16:05-16:25 | Yuito Suzuki | Non-Abelian domain wall junctions and fermion zero modes |
-| 16:25-16:45 | Ann Nakato | [Anisotropic warm inflation](20221126_08_nakato.pdf) |
+| 13:30-13:50 | Katsuya Hashino | []() |
+| 13:50-14:10 | Ryusuke Jinno | []() |
+| 14:10-15:10 | Kaloian Lozanov | []() |
+
+15:10-15:30 Break
+
+Session 4 (Chair: )
+
+|----|----|----|
+| 15:30-15:50 | Ippei Obata | []() |
+| 15:50-16:10 | Asuka Ito | []() |
+| 16:10-17:10 | Takashi Toma | []() |
+
+17:10-17:30 Break
+
+|----|----|----|
+| 17:30-18:30 | Graham White | []() |
+
+18:45-20:45 Banquet
 
 ## Second Day　(Sunday, 27th November 2022)
 
-Invited session 4 (Chair: Kazufumi Takahashi)
+Invited session 4 (Chair: )
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
