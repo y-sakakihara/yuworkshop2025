@@ -29,15 +29,14 @@ Session 2 (Chair: )
 
 12:00-13:30  Lunch
 
-Session 3 (Chair: )
-
+*Session 3 (Chair: )*  
 | 13:30-13:50 | Katsuya Hashino | Precisely probing the Higgs potential at the gravitational wave observation experiments |
 | 13:50-14:10 | Ryusuke Jinno | TBA |
 | 14:10-15:10 | Kaloian Lozanov | Solitons in the primordial universe |
 
 15:10-15:30 Break
 
-Session 4 (Chair: )
+*Session 4 (Chair: )*
 
 | 15:30-15:50 | Ippei Obata | TBA |
 | 15:50-16:10 | Asuka Ito | TBA |
