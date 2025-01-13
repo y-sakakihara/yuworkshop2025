@@ -60,7 +60,7 @@ Keywords:
 
 - Lukas Treuer (KEK, The Graduate U. Adv. Studies (SOKENDAI))
 
-[Timetable (under constraction)](program)
+## [Timetable](program)
 
 []([Participants](participants))
 
