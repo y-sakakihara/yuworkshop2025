@@ -62,8 +62,6 @@ Keywords:
 
 ## [Timetable](program) 
 
-Updated on January 13, 2025
-
 []([Participants](participants))
 
 ## Photo
