@@ -2,7 +2,7 @@
 
 [**Home**](index)
 
-- Updated on January 13, 2025
+- Updated on January 14, 2025
 - Times are in JST. 
 - Each invited talk is for 50min + 10min discussion. 
 - Each contributed talk is for 15min + 5min discussion.
