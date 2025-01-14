@@ -32,8 +32,6 @@ Keywords:
   
 - Junseok Lee (Tohoku University)
 
-- Kaloian Lozanov (Kavli IPMU)
-
 - Wakutaka Nakano (KEK)
 
 - Nobuchika Okada (University of Alabama, *Online*)
