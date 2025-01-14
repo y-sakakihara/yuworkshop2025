@@ -52,6 +52,8 @@ Keywords:
 
 - Ryusuke Jinno (Kobe University)
 
+- Maria Mylova (Kavli IPMU)
+
 - Ippei Obata (Kavli IPMU)
 
 - Jan Tränkle	(ITP Leibniz University Hannover)
