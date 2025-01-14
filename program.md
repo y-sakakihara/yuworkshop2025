@@ -34,7 +34,7 @@
 
 | 13:30-13:50 | Katsuya Hashino | Precisely probing the Higgs potential at the gravitational wave observation experiments |
 | 13:50-14:10 | Ryusuke Jinno | TBA |
-| 14:10-15:10 | Kaloian Lozanov | Solitons in the primordial universe |
+| 14:10-15:10 | *canceled* |  |
 
 15:10-15:30 Break
 
