@@ -2,7 +2,7 @@
 
 [**Home**](index)
 
-- Updated on January 14, 2025
+- Updated on January 15, 2025
 - Times are in JST. 
 - Each invited talk is for 50min + 10min discussion. 
 - Each contributed talk is for 15min + 5min discussion.
@@ -81,7 +81,7 @@
 
 | 15:00-16:00 | Elisa Ferreira | TBA |
 
-16:00-16:05 Break
+16:00-16:05 Closing
 
 16:05-17:00 Discussion
 
