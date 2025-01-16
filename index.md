@@ -75,7 +75,7 @@ Keywords:
 
 On-site participants need to pay the following ***in cash (JPY)*** on your arrival: 
 - Participation Fee: 1,000JPY
-- (if you join the banquet)  Banquet Fee: TBD
+- (if you join the banquet)  Banquet Fee: 6,000JPY
 - (if you made a reservation in advance) Lunch box: 1,000JPY/day
 
 ## Important Dates
@@ -112,7 +112,11 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 
 - 12min from Uesugi Jinja Mae Bus Stop on foot 
     - Uesugi Jinja Mae Bus Stop (2 hours from Sendai Station by highway bus)
- 
+
+## Banquet
+Shoutouen
+https://syoutouen.com/
+
 ## Introduction of Yonezawa
 
 Yonezawa has a long history and is famous for being the land ruled by the Date and Uesugi families. Uesugi Shrine, Uesugi Clan Mausoleum, and Kasuga-san Rinsen-ji, the family temple of the Uesugi, are located here. [The main building of Yonezawa Higher Technical School](https://www.yz.yamagata-u.ac.jp/school/old-yonezawa/guide/), the predecessor of Yamagata University's Faculty of Engineering, still exists in Yamagata University. The Okitama (or some call "Oitama") region, centered on Yonezawa, has many hot springs, including Onogawa Onsen, Shirabu Onsen, and Akayu Onsen.
