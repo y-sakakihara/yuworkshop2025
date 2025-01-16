@@ -113,9 +113,10 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 - 12min from Uesugi Jinja Mae Bus Stop on foot 
     - Uesugi Jinja Mae Bus Stop (2 hours from Sendai Station by highway bus)
 
-## Banquet
-Shoutouen
-https://syoutouen.com/
+## Banquet (Planned)
+[Shoutouen](https://syoutouen.com/) 
+- 15min from the venue on foot
+- *Kaiseki-ryori* (a traditional Japanese-style cuisine) with a few kinds of local *Japanese sake*
 
 ## Introduction of Yonezawa
 
