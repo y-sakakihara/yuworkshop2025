@@ -2,7 +2,7 @@
 
 [**Home**](index)
 
-- Updated on January 15, 2025
+- Updated on January 17, 2025
 - Times are in JST. 
 - Each invited talk is for 50min + 10min discussion. 
 - Each contributed talk is for 15min + 5min discussion.
@@ -50,7 +50,7 @@
 
 | 17:30-18:30 | Graham White (*Online*) | Why quantum gravity made me fall in love with domain walls |
 
-18:40-20:40 Banquet
+19:00-21:00 Banquet
 
 ## Second Day (Wednesday, March 5, 2025)
 
