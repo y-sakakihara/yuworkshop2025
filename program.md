@@ -2,7 +2,7 @@
 
 [**Home**](index)
 
-- Updated on January 17, 2025
+- Updated on January 18, 2025
 - Times are in JST. 
 - Each invited talk is for 50min + 10min discussion. 
 - Each contributed talk is for 15min + 5min discussion.
@@ -34,7 +34,7 @@
 
 | 13:30-13:50 | Katsuya Hashino | Precisely probing the Higgs potential at the gravitational wave observation experiments |
 | 13:50-14:10 | Ryusuke Jinno | TBA |
-| 14:10-14:30 | Maria Mylova | TBA |
+| 14:10-14:30 | Maria Mylova | Boosting primordial gravitational wave (PGW) non-Gaussianity: A path towards detection of PGWs |
 
 14:30-15:30 Break
 
