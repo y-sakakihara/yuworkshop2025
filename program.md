@@ -2,7 +2,7 @@
 
 [**Home**](index)
 
-- Updated on January 18, 2025
+- Updated on January 21, 2025
 - Times are in JST. 
 - Each invited talk is for 50min + 10min discussion. 
 - Each contributed talk is for 15min + 5min discussion.
@@ -79,7 +79,7 @@
 
 *Session 9 (Chair: )*
 
-| 15:00-16:00 | Elisa Ferreira | TBA |
+| 15:00-16:00 | Elisa Ferreira | Probing ultra-light axion dark matter wave interference |
 
 16:00-16:05 Closing
 
