@@ -33,15 +33,15 @@
 *Session 3 (Chair: )*
 
 | 13:30-13:50 | Katsuya Hashino | Precisely probing the Higgs potential at the gravitational wave observation experiments |
-| 13:50-14:10 | Ryusuke Jinno | TBA |
+| 13:50-14:10 | Ryusuke Jinno | Gravitational waves from defect-driven phase transitions: domain walls |
 | 14:10-14:30 | Maria Mylova | Boosting primordial gravitational wave (PGW) non-Gaussianity: A path towards detection of PGWs |
 
 14:30-15:30 Break
 
 *Session 4 (Chair: )*
 
-| 15:30-15:50 | Ippei Obata | TBA |
-| 15:50-16:10 | Asuka Ito | TBA |
+| 15:30-15:50 | Ippei Obata | Axionic defects in the CMB: birefringence and gravitational waves |
+| 15:50-16:10 | Asuka Ito | Quantum entanglement of ions for light dark matter detection |
 | 16:10-17:10 | Takashi Toma | Probing pseudo-Nambu-Goldstone dark matter evading direct detection bounds |
 
 17:10-17:30 Break
