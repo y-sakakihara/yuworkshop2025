@@ -170,7 +170,7 @@ This is the second workshop on Frontiers in Gravity and Fundamental Physics.
 
 ## Sponsors
 
-This workshop is supported by the following KAKENHI and Yamagata University.
+This workshop is supported by the following KAKENHI and Graduate School of Science and Engineering, Yamagata University.
 
 - Grant-in-Aid for Scientific Research (C)
     - 24K07013 for Ryusuke Jinno (PI)
@@ -189,7 +189,7 @@ This workshop is supported by the following KAKENHI and Yamagata University.
 - Grant-in-Aid for Scientific Research (B) 
     - 22H01221 for Minoru Eto (co-PI)
 
-The venue and facilities are provided by Yamagata University.
+The venue and facilities are provided by Graduate School of Science and Engineering, Yamagata University.
 
 
 <img src="KAKENHIlogo_L.jpg" width="240"> <!--<img src="YU-logomark01.png" width="460">-->
