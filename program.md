@@ -38,7 +38,7 @@
 
 14:30-15:30 Break
 
-*Session 4 (Chair: Jinno Ryusuke)*
+*Session 4 (Chair: Ryusuke Jinno)*
 
 | 15:30-15:50 | Ippei Obata | Axionic defects in the CMB: birefringence and gravitational waves |
 | 15:50-16:10 | Asuka Ito | Quantum entanglement of ions for light dark matter detection |
