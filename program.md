@@ -15,7 +15,7 @@
 
 9:55-10:00 Opening
 
-*Session 1 (Chair: )*
+*Session 1 (Chair: Yuki Sakakihara)*
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
@@ -24,13 +24,13 @@
 
 10:40-11:00    Break
 
-*Session 2 (Chair: )*
+*Session 2 (Chair: Asuka Ito)*
 
 | 11:00-12:00 | Wakutaka Nakano | Gravitational wave spectrum from expanding string loops on domain walls: Implication for nanohertz pulsar timing array signals |
 
 12:00-13:30  Lunch
 
-*Session 3 (Chair: )*
+*Session 3 (Chair: Minoru Eto)*
 
 | 13:30-13:50 | Katsuya Hashino | Precisely probing the Higgs potential at the gravitational wave observation experiments |
 | 13:50-14:10 | Ryusuke Jinno | Gravitational waves from defect-driven phase transitions: domain walls |
@@ -38,7 +38,7 @@
 
 14:30-15:30 Break
 
-*Session 4 (Chair: )*
+*Session 4 (Chair: Jinno Ryusuke)*
 
 | 15:30-15:50 | Ippei Obata | Axionic defects in the CMB: birefringence and gravitational waves |
 | 15:50-16:10 | Asuka Ito | Quantum entanglement of ions for light dark matter detection |
@@ -46,7 +46,7 @@
 
 17:10-17:30 Break
 
-*Session 5 (Chair: )*
+*Session 5 (Chair: Yuki Sakakihara)*
 
 | 17:30-18:30 | Graham White (*Online*) | Why quantum gravity made me fall in love with domain walls |
 
@@ -54,7 +54,7 @@
 
 ## Second Day (Wednesday, March 5, 2025)
 
-*Session 6 (Chair: )*
+*Session 6 (Chair: Yuki Sakakihara)*
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
@@ -62,7 +62,7 @@
 
 11:00-11:20 Break
 
-*Session 7 (Chair: )*
+*Session 7 (Chair: Ippei Obata)*
 
 | 11:20-12:20 | Junseok Lee | Topological Defects with Multi-Axion |
 
@@ -70,14 +70,14 @@
 
 12:30-14:00 Lunch
 
-*Session 8 (Chair: )*
+*Session 8 (Chair: Asuka Ito)*
 
 | 14:00-14:20 | Lukas Treuer | Quantum Effects on Neutrino Parameters From a Flavored Gauge Boson |
 | 14:20-14:40 | Takumi Fujimori | The correction of the relative motion of detectors for Ultra-Light Dark Matter search |
 
 14:40-15:00 Break
 
-*Session 9 (Chair: )*
+*Session 9 (Chair: Ippei Obata)*
 
 | 15:00-16:00 | Elisa Ferreira | Probing ultra-light axion dark matter wave interference |
 
