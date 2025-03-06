@@ -7,6 +7,8 @@
 - Each invited talk is for 50min + 10min discussion. 
 - Each contributed talk is for 15min + 5min discussion.
 - No printed timetable is provided at the venue. If you need one, please print this page.
+- Presentation files are available from [HERE](https://drive.google.com/drive/folders/1dmwx0DKX20hEJIRhp6TgKrEEzt59fIo5?usp=sharing). 
+  If there is a missing file and you wish to take a look at it, please ask the speaker directly. 
 <!--- Both of them include time for questions and comments.-->
 
 ## First Day (Tuesday, March 4, 2025)
