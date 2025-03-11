@@ -65,7 +65,7 @@ Keywords:
 []([Participants](participants))
 
 ## Photo
-<!-- <img src="image_50438657_reduced.jpg" width="460"> -->
+<img src="img_workshop.jpg" width="460"> <img src="img_workshop_all.jpg" width="460"> 
 
 ## [Registration](https://docs.google.com/forms/d/e/1FAIpQLScF8hF8p2rPiRJFfK1DiXLNzbmRk_zwmg6DocQqgY1qxQ03ng/viewform?usp=sf_link) 
 
